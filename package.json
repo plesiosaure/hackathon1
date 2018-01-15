@@ -1,0 +1,20 @@
+{
+  "name": "hackaton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.16.1",
+    "mysql": "^2.14.1",
+    "node-spotify-api": "^1.0.7",
+    "opn": "^5.1.0",
+    "rocketchat": "^0.57.3-alpha",
+    "spotify-web-api-node": "^2.5.0"
+  }
+}
